@@ -1,10 +1,8 @@
 var marks = [35,38,42,45,43,34,36,41,48,32];
 var sum = 0;
 
-
-}
-
-function setup() {
+function setup() 
+{
   createCanvas(400,400);
   for(var i=0; i<marks.length; i=i+1)
   {
